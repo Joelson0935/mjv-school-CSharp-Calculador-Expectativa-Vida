@@ -4,7 +4,7 @@ Este é um pequeno exercício proposto pelo professor da school para testar os c
 # modo de usar
 
 * tenha o .Net instalado na tua máquina
-* faça um clone do repositório usando o comando : git clone
+* faça um clone do repositório usando o comando : git clone https://github.com/Joelson0935/mjv-school-CSharp-Calculador-Expectativa-Vida.git
 * abra o projeto usando um editor de código
-* caso o editor seja o VS Code clique em Run and Debug
+* caso o editor seja o VS Code clique em Run and Debug e divirta se.
   
