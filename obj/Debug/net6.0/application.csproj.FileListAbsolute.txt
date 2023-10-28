@@ -1,0 +1,30 @@
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\bin\Debug\net6.0\application.exe
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\bin\Debug\net6.0\application.deps.json
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\bin\Debug\net6.0\application.runtimeconfig.json
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\bin\Debug\net6.0\application.dll
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\bin\Debug\net6.0\application.pdb
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\obj\Debug\net6.0\application.csproj.AssemblyReference.cache
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\obj\Debug\net6.0\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\obj\Debug\net6.0\application.AssemblyInfoInputs.cache
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\obj\Debug\net6.0\application.AssemblyInfo.cs
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\obj\Debug\net6.0\application.csproj.CoreCompileInputs.cache
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\obj\Debug\net6.0\application.dll
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\obj\Debug\net6.0\refint\application.dll
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\obj\Debug\net6.0\application.pdb
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\obj\Debug\net6.0\application.genruntimeconfig.cache
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\exercício 1 semana 1\application\obj\Debug\net6.0\ref\application.dll
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\bin\Debug\net6.0\application.exe
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\bin\Debug\net6.0\application.deps.json
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\bin\Debug\net6.0\application.runtimeconfig.json
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\bin\Debug\net6.0\application.dll
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\bin\Debug\net6.0\application.pdb
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\obj\Debug\net6.0\application.csproj.AssemblyReference.cache
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\obj\Debug\net6.0\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\obj\Debug\net6.0\application.AssemblyInfoInputs.cache
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\obj\Debug\net6.0\application.AssemblyInfo.cs
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\obj\Debug\net6.0\application.csproj.CoreCompileInputs.cache
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\obj\Debug\net6.0\application.dll
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\obj\Debug\net6.0\refint\application.dll
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\obj\Debug\net6.0\application.pdb
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\obj\Debug\net6.0\application.genruntimeconfig.cache
+C:\Users\JOELSON\Downloads\PROCESSOS SELETIVOS\MJV Schools\DotNet-School\semana 1 - calculo de idade\Calculador-De-Idade\obj\Debug\net6.0\ref\application.dll
