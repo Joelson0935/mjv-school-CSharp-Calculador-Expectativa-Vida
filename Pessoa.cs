@@ -3,7 +3,6 @@ namespace Objetos
 
     public class Pessoa
     {
-
         public string? nome;
         public DateTime nascimento;
 
@@ -11,13 +10,11 @@ namespace Objetos
         {
 
         }
-
         public DateTime adicionaCemAnos(DateTime nascimento)
         {
             DateTime resultado = nascimento.AddYears(100);
             return resultado;
         }
-
     }
 
 }
