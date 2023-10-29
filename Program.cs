@@ -10,7 +10,7 @@ try
     pessoa.nascimento = DateTime.Parse(data);
     Console.WriteLine("Nome: " + pessoa.nome);
     Console.WriteLine("Data de Nascimento: " + pessoa.nascimento.ToString("dd/MM/yyyy"));
-    Console.WriteLine("Viverá até: " + pessoa.adicionaCemAnos(pessoa.nascimento).ToString("dd/MM/yyyy"));
+    Console.WriteLine(pessoa.calcularExpectativaDeVida());
 }
 catch (System.FormatException)
 {
